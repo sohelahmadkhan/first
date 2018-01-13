@@ -1,10 +1,7 @@
 print 'Good Aftenoon'
 
 print 'Good Afternoon'
-<<<<<<< HEAD
-print 'Good Night'
 
-print 'Hello world'
-=======
 print 'Good night'
->>>>>>> 9cfcac5ce128c787d917859613ecb11ea70bc7cb
+
+
