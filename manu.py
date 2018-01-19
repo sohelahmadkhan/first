@@ -21,4 +21,6 @@ while True:
 	else:
 		break
 
+print hello
+
 
