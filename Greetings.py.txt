@@ -6,9 +6,7 @@ print ' Good Evening'
 
 print 'Good Night'
 
-print 'Hello world
 
-print 'hello world again'
 
 
 
