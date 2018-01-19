@@ -1,6 +1,6 @@
-print 'Good Aftenoon'
+print 'Good aftenoon'
 
-print 'Good Afternoon'
+print 'Good afternoon'
 print ' Good evening'
 
 
