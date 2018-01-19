@@ -1,10 +1,10 @@
-print 'Good aftenoon'
+print 'Good Aftenoon'
 
-print 'Good afternoon'
-print ' Good evening'
+print 'Good Afternoon'
+print ' Good Evening'
 
 
-print 'Good night'
+print 'Good Night'
 
 print 'Hello world
 
